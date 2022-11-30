@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.e0344d61.css",
-    "main.js": "/static/js/main.e00c4968.js",
-    "index.html": "/index.html",
-    "main.e0344d61.css.map": "/static/css/main.e0344d61.css.map",
-    "main.e00c4968.js.map": "/static/js/main.e00c4968.js.map"
+    "main.css": "/reactive-navbar/static/css/main.e0344d61.css",
+    "main.js": "/reactive-navbar/static/js/main.e00c4968.js",
+    "index.html": "/reactive-navbar/index.html",
+    "main.e0344d61.css.map": "/reactive-navbar/static/css/main.e0344d61.css.map",
+    "main.e00c4968.js.map": "/reactive-navbar/static/js/main.e00c4968.js.map"
   },
   "entrypoints": [
     "static/css/main.e0344d61.css",
